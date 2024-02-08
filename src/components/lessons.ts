@@ -151,6 +151,12 @@ export const lessons = [
         youtube: "https://youtu.be/6aWyYMGYNjE",
         duration: "06:55",
       },
+      {
+        title: "React useEffect Cleanup function",
+        youtube: "https://youtu.be/50EJWAnVQtM",
+        duration: "09:53",
+      },
+      
     ]
   },
   {
