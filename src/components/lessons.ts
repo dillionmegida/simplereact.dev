@@ -160,8 +160,33 @@ export const lessons = [
     ]
   },
   {
+    label: "More React Hooks",
+    lessons: [
+      {
+        title: "The useRef Hook",
+        youtube: "https://youtu.be/v74AShC0A-o",
+        duration: "15:30",
+      },
+    ]
+  },
+  {
     label: "Upcoming Videos",
     lessons: [
+      {
+        title: "The useMemo hook",
+        youtube: null,
+        duration: "00:00",
+      },
+      {
+        title: "The useCallback hook",
+        youtube: null,
+        duration: "00:00",
+      },
+      {
+        title: "Tailwind and React",
+        youtube: null,
+        duration: "00:00",
+      },
       {
         title: "Reading React Errors",
         youtube: null,
