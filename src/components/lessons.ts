@@ -163,9 +163,24 @@ export const lessons = [
     label: "More React Hooks",
     lessons: [
       {
+        title: "What are React Hooks?",
+        youtube: "https://youtu.be/fXSKvWoemuk",
+        duration: "05:51",
+      },
+      {
         title: "The useRef Hook",
         youtube: "https://youtu.be/v74AShC0A-o",
         duration: "15:30",
+      },
+      {
+        title: "The useMemo Hook",
+        youtube: "https://youtu.be/CMCnV6B0E3A",
+        duration: "15:37",
+      },
+      {
+        title: "React.memo",
+        youtube: "https://youtu.be/d7Nj9E4LEGA",
+        duration: "11:31",
       },
     ]
   },
